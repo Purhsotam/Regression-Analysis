@@ -3,6 +3,10 @@
 
 Rossmann operates over 3,000 drug stores in 7 European countries. Currently, Rossmann store managers are tasked with predicting their daily sales for up to six weeks in advance. Store sales are influenced by many factors, including promotions, competition, school and state holidays, seasonality, and locality. With thousands of individual managers predicting sales based on their unique circumstances, the accuracy of results can be quite varied. You are provided with historical sales data for 1,115 Rossmann stores. The task is to forecast the "Sales" column for the test set.
 
+Links to dataset 
+https://drive.google.com/file/d/14a-zbltgirbuWh8tGvwfm7Xoo5pAINtV/view?usp=sharing
+https://drive.google.com/file/d/1MJ8i78_IDHDYec3s2xdbI9lkAvcyPczv/view?usp=share_link
+
 We get the Rosemann store data set from the almabetter for our capstone project based on regression ML algorithm. This data set contains certain details of 1115 stores operating and non operating.
 
 In this project we have been provided with 2 CSV datasets for analysis purpose we wil merge the dataset on the basis of "Store" column.
